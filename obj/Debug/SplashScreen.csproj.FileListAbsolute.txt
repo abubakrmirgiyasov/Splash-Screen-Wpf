@@ -1,0 +1,17 @@
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.config
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csprojAssemblyReference.cache
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\AnotherWindow.g.cs
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\MainWindow.g.cs
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\App.g.cs
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\SplashScreen_MarkupCompile.cache
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\SplashScreen_MarkupCompile.lref
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\AnotherWindow.baml
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\MainWindow.baml
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\SplashScreen.g.resources
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
+D:\Files\github-projects\splash-screen-wpf\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
